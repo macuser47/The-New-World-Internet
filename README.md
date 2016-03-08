@@ -1,7 +1,7 @@
 # The New World Internet
 Internet over SMS. Imagine it.
 
-The New World Internet project will use send webpages over sms.
+The New World Internet project will send webpages over sms.
  Many smartphones have unlimited texting but lack unlimited data.
  To help people have constant internet access for free, we are 
  making a server that can send websites through text to your 
